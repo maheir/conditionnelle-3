@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\conditionnelle 3\conditionnelle 3\bin\Debug\conditionnelle 3.exe.config
+C:\Users\Dell\source\repos\conditionnelle 3\conditionnelle 3\bin\Debug\conditionnelle 3.exe
+C:\Users\Dell\source\repos\conditionnelle 3\conditionnelle 3\bin\Debug\conditionnelle 3.pdb
+C:\Users\Dell\source\repos\conditionnelle 3\conditionnelle 3\obj\Debug\conditionnelle 3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\conditionnelle 3\conditionnelle 3\obj\Debug\conditionnelle 3.exe
+C:\Users\Dell\source\repos\conditionnelle 3\conditionnelle 3\obj\Debug\conditionnelle 3.pdb
+C:\Users\Dell\source\repos\conditionnelle 3\conditionnelle 3\obj\Debug\conditionnelle 3.csprojAssemblyReference.cache
